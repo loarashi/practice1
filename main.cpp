@@ -4,8 +4,10 @@ using namespace std;
 
 int main()
 {
+	cout << "welcome to putty~" << endl;	
 	cout << "Hello World!" << endl;
-	cout << "Hi";
+	
+
 	system("pause");
 	return 0;
 }
